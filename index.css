@@ -1,4 +1,5 @@
 /*Subscribe to my youtube Channel U CAN CODE for more Awesome codes*/
+
 *{
     padding:0;
     margin: 0;
@@ -12,7 +13,9 @@
     justify-content: flex-start;
     align-items: flex-start;
     flex-wrap: wrap;
-    background-color: #ff99b6;
+    background-image: url("./source/115-1004_r1__large.webp");
+
+    /* background-color: #ff99b6; */
     overflow: hidden;
  }
  .banner{
@@ -31,7 +34,8 @@
  .nav{
     width:90%;
     height: auto;
-    background-color: rgba(255,200,200,.7);
+    background-image: url("./source/115-1004_r1__large.webp");
+    /* background-color: rgba(255,200,200,.7); */
     border-radius: 30px;
     margin-top: 40px;
     display: flex;
@@ -91,7 +95,9 @@
  .section{
     width:100%;
     height: auto;
-    background-color: #efefef;
+    /* background-color: #efefef; */
+    background-image: url("./source/115-1004_r1__large.webp");
+
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -100,7 +106,9 @@
  .us{
     width:80%;
     height: auto;
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-image: url("./source/115-1004_r1__large.webp");
+
     border-radius: 20px;
     margin-top: 20px;
     display: flex;
@@ -120,7 +128,7 @@
  .section h2{
     width:100%;
     text-align: center;
-    color:#f15;
+    /* color:#f15; */
     font-size: 60px;
  }
  .us1 {
@@ -131,13 +139,17 @@
     color:#fff;
     font-size: 40px;
     padding: 8px;
-    background-color: #f15;
+    /* background-color: #f15; */
+    background-image: url("./source/115-1004_r1__large.webp");
+
     border-radius: 8px;
  }
  .venue{
     width:80%;
     height: auto;
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-image: url("./source/115-1004_r1__large.webp");
+
     border-radius: 20px;
     margin-top: 20px;
     display: flex;
@@ -164,7 +176,9 @@
  .party{
     width:80%;
     height: auto;
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-image: url("./source/115-1004_r1__large.webp");
+
     border-radius: 20px;
     margin-top: 20px;
     display: flex;
@@ -193,7 +207,7 @@
     color:#ddd;
     font-size: 30px;
     font-family: monospace;
-    background-color: #555;
+    /* background-color: #555; */
     margin-top: 20px;
     display: inline-flex;
     justify-content: center;
@@ -206,5 +220,3 @@
     margin-left: 20px;
  }
   
- 
- 
